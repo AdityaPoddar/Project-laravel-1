@@ -1,0 +1,30 @@
+
+
+.heading
+{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 30px;
+    color:rgba(223, 22, 173, 0.541);
+    /* border:2px solid red; */
+    width: 75%;
+    margin-left: 230px;
+    background: linear-gradient(to right,rgba(10, 221, 10, 0.781),rgba(0, 140, 255, 0.719));
+}
+.heading h1
+{
+    border-bottom:1px solid rgb(16, 120, 240);
+}
+.heading p
+{
+    
+    font-size: 20px;
+    color:rgba(223, 22, 173, 0.938);
+    /* color:white; */
+    
+    /* border:2px solid red; */
+    margin-top: 15px;
+    width: 55%;
+    margin-left: 230px;
+
+}

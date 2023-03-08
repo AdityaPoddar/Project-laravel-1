@@ -1,0 +1,31 @@
+.add
+{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 55px;
+    color:White;
+    font-size: 30px;
+}
+input
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:blue;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px;
+    /* background: rgba(10, 10, 119, 0.459); */
+}
+
+/* input:hover
+{
+    background: white;
+    color:rgba(10, 10, 119, 0.459);
+} */
+h1
+{
+    color: white;
+    text-align: center;
+}
